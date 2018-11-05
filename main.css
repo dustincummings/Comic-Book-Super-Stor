@@ -205,14 +205,14 @@ section#sidebar {
    }
 /*Main Section*/
 section #main {
-    /*background-color: #FCFBE6;*/
+    background-color: #FCFBE6;
     background-color: rgba(252,251,243,0.7);
     margin: 0.5em 0 .5em;
     padding: 1.5em  0 2.0em 1.5em;
     display: inline-block;
     border-radius: 2em;
     box-shadow: 1px 1px 5px #777;/* offset-x | offset-y | blur-radius | color */
-   }
+    }
    section div.panel{
     float: left;
     position: relative;
@@ -227,7 +227,7 @@ section #main {
    section div.panel img.superHeroPic{
        width:100%;
    }
-  
+   
 /*Footer*/
 footer {
     background-color: #40362f;
